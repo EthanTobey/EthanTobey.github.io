@@ -1,4 +1,10 @@
-Webpage made by Ethan Tobey, design by HTML5 UP (credited below)
+# Ethan Tobey's Portfolio
+
+## Overview
+
+This repository contains the **portfolio webpage** for **Ethan Tobey**, designed to showcase various coding projects. The layout was created by Ethan Tobey, while the design is based on a template from **HTML5 UP**.
+
+## HTML5 Up Credit
 
 Massively by HTML5 UP
 html5up.net | @ajlkn
@@ -20,15 +26,10 @@ AJ
 aj@lkn.io | @ajlkn
 
 
-Credits:
+# Other Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+**Demo Images:**
+	Unsplash (unsplash.com)
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+**Icons:**
+	Font Awesome (fontawesome.io)
