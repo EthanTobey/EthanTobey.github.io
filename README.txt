@@ -4,32 +4,20 @@
 
 This repository contains the **portfolio webpage** for **Ethan Tobey**, designed to showcase various coding projects. The layout was created by Ethan Tobey, while the design is based on a template from **HTML5 UP**.
 
-## HTML5 Up Credit
+## Key Features
 
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+- **Project Showcase**: A centralized location to display and highlight various coding projects and achievements.
+- **Custom Layout**: Designed and implemented by Ethan Tobey to reflect personal branding and project highlights.
+- **HTML5 UP Design**: Utilizes a professional and modern design template provided by HTML5 UP to ensure a visually appealing and responsive layout.
 
+## Technologies Used
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+- **HTML5**: Markup language used for structuring the webpage.
+- **CSS**: Styling language used to enhance the appearance of the webpage.
+- **HTML5 UP**: Design template used for the webpage’s aesthetic and responsive design.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Installation
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-# Other Credits:
-
-**Demo Images:**
-	Unsplash (unsplash.com)
-
-**Icons:**
-	Font Awesome (fontawesome.io)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/portfolio-webpage.git
