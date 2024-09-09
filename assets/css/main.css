@@ -176,8 +176,13 @@ input, select, textarea {
 	}
 
 	p {
-		text-align: justify;
+		text-align: left;
 		margin: 0 0 2rem 0;
+	}
+
+	/* class for adding margin to span for index.html project descriptiosn */
+	.p-center {
+		text-align: center;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
