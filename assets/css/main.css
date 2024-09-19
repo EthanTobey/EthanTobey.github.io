@@ -180,6 +180,10 @@ input, select, textarea {
 		margin: 0 0 2rem 0;
 	}
 
+	.p-subsection {
+		margin-top: 30px;
+	}
+
 	/* class for adding margin to span for index.html project descriptiosn */
 	.p-center {
 		text-align: center;
