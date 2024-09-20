@@ -174,20 +174,22 @@ input, select, textarea {
 	em, i {
 		font-style: italic;
 	}
-
+	
 	p {
 		text-align: left;
-		margin: 0 0 2rem 0;
+		margin: 0 0 2em 0;
 	}
 
 	.p-subsection {
 		margin-top: 30px;
 	}
-
+		As
+	throuhg Case
 	/* class for adding margin to span for index.html project descriptiosn */
 	.p-center {
 		text-align: center;
 	}
+
 
 	h1, h2, h3, h4, h5, h6 {
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
