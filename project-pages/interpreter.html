@@ -6,32 +6,32 @@
 -->
 <html>
 	<head>
-		<title>Escape Room | Ethan Tobey Portfolio</title>
+		<title>Interpreter | Ethan Tobey Portfolio</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="stylesheet" href="/assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="/assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
 
 		<!-- Wrapper -->
 			<div id="wrapper">
 
-				<!-- Header -->
+				<!-- Header -->	
 					<header id="header">
-						<a href="index.html" class="logo">Back To Projects</a>
+						<a href="/index.html" class="logo">Back To Projects</a>
 					</header>
 
 				<!-- Nav -->
 					<!-- <nav id="nav">
 						<ul class="links">
-							<li><a href="roomease.html">RoomEase</a></li>
+							 <li class="active"><a href="roomease.html">RoomEase</a></li>
                             <li><a href="cymko.html">CYM-KO</a></li>
                             <li><a href="mlanalysis.html">ML</a></li>
                             <li><a href="gravigo.html">GraviGo</a></li> 
-                            <li><a href="snake.html">Snake</a></li>
+							<li><a href="snake.html">Snake</a></li>
                             <li><a href="ringsandmatrices.html">Matrices</a></li>
-                            <li class="active"><a href="escaperoom.html">EscapeRoom</a></li> 
+                            <li><a href="escaperoom.html">EscapeRoom</a></li> 
 						</ul>
 						<ul class="icons">
 							<li><a href="https://www.linkedin.com/in/ethan-tobey/" target="_blank" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
@@ -46,33 +46,38 @@
 					
                         <section class="post">
                             <header class="major">
-                                <h1>Escape Room</h1>
-                                <p>Explore the interior of a mysterious spaceship and attempt<br />
-									to break free in this game designed in Unreal Engine.</p>
+                                <h1>Programming Language Interpreter</h1>
+                                <p>A functional interpreter for a C-like language with object-oriented and functional features, written in Racket.</p>
                             </header>
-                            <div class="image main"><img src="Display Materials/Building Escape/Arches.png" alt="" /></div>
+                            <div class="image main"><img src="/images/pic01.jpg" alt="" /></div>
                         </section>
 
                         <section>
                             <header>
-                                <h2>Gameplay</h2>
+                                <h2>Overview</h2>
                             </header>
-                            <div class="image left"><img src="Display Materials/Building Escape/UnlockRooms.png" alt="" /></div>
-                            <p><br/>In this game, the player finds themselves stuck in a spaceship, and must explore their environment to find clues that will help 
-								them retrieve the keys to open the main gate. As they explore, they can pick up items, open doors, and activate pressure plates
-								 to help make their escape.  <br/> <br/>
-								</p>
+                            <div class="image left"><img src="/images/pic02.jpg" alt="" /></div>
+                            <p class="p-subsection">
+                                This interpreter parses and executes code written in a simplified C-like language. It supports class definitions, field access, method calls, and stateful object behavior using scoped environments and recursive evaluation. Separate test suites demonstrate both functional and object-oriented capabilities.<br/><br/>
+                                Core files include `Interpreter.rkt` for evaluation logic, and `classParser.rkt`, `simpleParser.rkt`, and `lex.rkt` for parsing and lexical analysis.
+                            </p>
                         </section>
 
                         <section>
                             <header>
-                                <h2>Project Elements</h2>
+                                <h2>Technologies</h2>
                             </header>
-                            <div class="image left"><img src="Display Materials/Building Escape/FullShip.png" alt="" /></div>
-                            <p><br/>The Escape Room was designed in Unreal Engine with player actions and gameplay events programmed in a combination of C++ and Unreal Engine 
-								Blueprints. The game map was developed using a set of prefabricated assets from the Epic Games Marketplace, which was amplified by 
-								attentive lighting design and sound effects. <br/><br/>
-							</p>
+                            <div class="image left"><img src="/images/pic02.jpg" alt="" /></div>
+                            <p class="p-subsection">
+                                • Racket (Functional Programming)<br/>
+                                • Recursive Evaluation & Scoped Environments<br/>
+                                • Lexical & Syntax Parsing for AST Construction<br/>
+                                • OOP Simulation in Functional Contexts<br/><br/>
+                            </p>
+							<br/>
+							<ul class="actions special">
+								<li><a href="https://github.com/EthanTobey/C-like-interpreter-racket" target="_blank" class="button">See Project on Github</a></li>
+							</ul>
                         </section>
                         
 
@@ -108,13 +113,13 @@
 			</div>
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+			<script src="/assets/js/jquery.min.js"></script>
+			<script src="/assets/js/jquery.scrollex.min.js"></script>
+			<script src="/assets/js/jquery.scrolly.min.js"></script>
+			<script src="/assets/js/browser.min.js"></script>
+			<script src="/assets/js/breakpoints.min.js"></script>
+			<script src="/assets/js/util.js"></script>
+			<script src="/assets/js/main.js"></script>
 
 	</body>
 </html>
